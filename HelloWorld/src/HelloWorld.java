@@ -5,7 +5,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		
 	System.out.println("Hello World Ejemplo. Pobre Alan");
-		System.out.print("Agrego esta linea");
+	System.out.print("Agrego esta linea");
 
 	}
 
